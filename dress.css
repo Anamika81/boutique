@@ -1,0 +1,57 @@
+footer {
+    background-color: #0f0e0e;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.footer-links a {
+    text-decoration: none;
+    color: #fff;
+    margin: 0 20px;
+    font-size: 16px;
+}
+
+.footer-links a:hover {
+    text-decoration: underline;
+}
+
+.social-icons a {
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.social-icons img {
+    width: 30px;
+    height: 30px;
+    transition: transform 0.2s;
+}
+
+.social-icons img:hover {
+    transform: scale(1.2);
+}
+
+p {
+    margin-top: 10px;
+    font-size: 14px;
+}
+p1{
+    font-size: 60px;
+}
+img{
+    margin-left: 47px;
+}
+.image2{
+    margin-left: 95px;
+}
+ion-icon {
+    color: rgb(254, 249, 249);
+  }
+.icon2{
+    margin-left: 50px;
+}
+/* .loginbtn:hover{
+    position: absolute;
+    top:100%;
+
+} */
